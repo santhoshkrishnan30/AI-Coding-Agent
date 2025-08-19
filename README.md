@@ -8,6 +8,19 @@
 
 An intelligent AI-powered coding assistant that implements the **Perceive → Reason → Act → Learn** cycle to help developers with coding tasks. This system integrates multiple LLM providers, specialized tools, safety mechanisms, and adaptive learning capabilities.
 
+## 🎬 Demo Video
+
+https://github.com/santhoshkrishnan30/AI-Coding-Agent/blob/main/ai-agent-demo.mp4
+
+*Click the link above to view the complete demonstration of the AI Coding Agent in action*
+
+The demo showcases:
+- Natural language processing to understand user commands
+- Multi-step reasoning and planning with the Perceive → Reason → Act → Learn loop
+- Safe execution of file operations, git commands, and code analysis
+- Adaptive learning from user interactions
+
+
 ## 🌟 Features
 
 ### Core Functionality
