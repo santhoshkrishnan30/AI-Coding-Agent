@@ -1,0 +1,43 @@
+# Basic Operations
+help
+status
+list files in current directory
+
+# File Operations
+read package.json
+write file hello.py with content 'print("Hello, World!")'
+read hello.py
+search for "import" in .py files
+
+# Git Operations
+git status
+git diff
+create commit with message "Add hello.py"
+show recent commits
+
+# Code Analysis
+run linter on hello.py
+analyze dependencies
+find references to print
+check code quality in src/
+
+# Configuration
+read config.yaml
+show environment variables
+list available tools
+
+# Multi-step Operations
+backup hello.py and then add logging to it
+create test for hello.py and run it
+update documentation and commit changes
+
+# Preferences & Learning
+set preference verbose_output true
+show preferences
+show learning
+clear learning history
+
+# Project Management
+list project structure
+create new feature branch
+run tests and generate report
