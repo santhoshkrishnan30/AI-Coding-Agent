@@ -235,7 +235,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/santhoshkrishnan30/AI-Coding-Agent/blob/main/LICENSE) – see the LICENSE file for details.
+
 
 ## 🙏 Acknowledgements
 
