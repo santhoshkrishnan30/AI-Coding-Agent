@@ -1,0 +1,20 @@
+# Example configuration
+agent:
+  name: "AI Coding Agent"
+  mode: "interactive"  # interactive, autonomous, or safe
+  
+llm:
+  primary_provider: "openai"
+  fallback_providers: ["groq", "ollama"]
+  
+tools:
+  enabled:
+    - file_operations
+    - git_tools
+    - code_analysis
+    - testing
+  
+safety:
+  approval_required: true
+  backup_before_write: true
+  rollback_enabled: true
