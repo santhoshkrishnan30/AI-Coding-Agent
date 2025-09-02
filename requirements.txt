@@ -1,0 +1,8 @@
+openai
+rich
+gitpython
+python-dotenv
+pydantic
+tiktoken
+requests
+sqlite3
